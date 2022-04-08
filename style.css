@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    background-color: #d6dece;
+}
+
+.box{
+    background-color: #2c4056;
+    margin: 0;
+    opacity: 0.95;
+    
+}
+
+.box_cabecalho{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10% 0 5%;
+    
+}
+
+.box_cabecalho-titulo{
+    color: #c47962;
+    margin: 3% 0 0 -50%;
+}
+
+.box_cabecalho-nav-ul{
+    display: flex;
+    list-style-type: none;
+    margin: 13% 0 0 0;
+}
+
+.box_cabecalho-nav-ul-li{
+    padding: 10px;
+    color: #d6dece;
+}
+
+.logo_site-img{
+    
+    width: 10%;
+    height: 10%;
+
+}
+
+.container_div{
+    margin: 20% 0 0 0;
+
+}
+
+.main1{
+    width: 300px;
+    height: 300px;
+}
+
+.form1{
+    margin: 40px 0;
+}
+
+.rodapé{
+    background-color: #2c4056;
+    color: #d6dece; 
+    margin: 0 0 -10% 0;
+    
+}
+
+.rodapé_img{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly
+}
+
+.img_whats{
+    width: 5%;
+}
+.img_insta{
+    width: 5%;
+}
+.img_face{
+    width: 5%;
+}
+.container{
+    display: flex;
+
+}
+
+.container_img{
+   width: 70%; 
+}
+
+.container_titulo{
+    text-align: center;
+    color: #000000;
+}
+
+.container_p{
+    text-align: justify;
+    margin: 45px 0 0 0;
+    color: #000000;
+}
+
+.rodapé_titulo{
+    text-align: center;
+    margin: 0;
+}
+.Botao{
+border: none;
+padding: 10px;
+text-decoration: nome;
+cursor: pointer;
+transition: background .3s;
+border-radius: 5px;
+color: #000000;
+text-align: center;
+}
+
+
+
